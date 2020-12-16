@@ -6,6 +6,12 @@ I first created this project for the University of Glasgow Graduate Apprenticesh
 
 The secondary purpose of this repo is to allow students to practice navigating a GitHub repo, cloning/forking where necessary and especially importing the project into their own IDE. This was developed in IntelliJ, but should run (with some practice, fairly painlessly) in any Java IDE.
 
+### Variations
+
+In the directory `vanilla`, you will find the 'base game' - the standard version of Blackjack in Java that I wrote, which should help you to explore a codebase, import into a development environment (see below) and any other practice you may need. You are very welcome to play and adapt this to your heart's content!
+
+You can also find in `adapter` a slight variation on Blackjack - here, I have used the adapter design pattern to get the user input. This seems a little convoluted but this can be thought of as insurance against potential compatiblity issues, as an example. Imagine one day the Scanner library was entirely overhauled - it would be far easier to amend my `IPlayerInput` interface and `GetPlayerInput` class than it would be to trawl through my entire project looking for compatibility issues.
+
 ### Importing
 
 Below are a few points to keep in mind when importing this project into your own development environment.
