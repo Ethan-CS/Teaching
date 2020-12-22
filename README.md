@@ -1,10 +1,20 @@
 # Teaching Resources Repo
 
 
-This repo contains a collection of resources I've created to help with various courses in Computing Science I help/have helped to deliver. There are lots of things you can do here, and you may have been pointed here by me, so hello! I'm adding new projects all the time, so do check back in if you're ever looking for help or practice coding. Below are some helpful tips and pointers about what you can do here. I hope this helps with whichever course you're taking and if you aren't taking a course at all. Feel free to get in touch anytime if you could do with a hand navigating this, a chat about any of it or just to say hey:  [contact me](https://ethankelly.github.io/contact/).
+This repo contains a collection of resources I've created to help with various courses in Computing Science I help/have helped to deliver. There are lots of things you can do here, and you may have been pointed here by me, so hello! I'm adding new projects all the time, so do check back in if you're ever looking for help or practice coding. Below are some helpful tips and pointers about what you can do here. I hope this helps with whichever course you're taking and if you aren't taking a course at all. Feel free to get in touch anytime if you could do with a hand navigating this, a chat about any of it or just to say hey: [contact me](https://ethankelly.github.io/contact/).
 
 
-### Suggesting changes
+## Contents
+
+There's more information in each of the directories about what each of the projects aims to teach, explain or demonstrate but below is a broad overview.
+
+* `Blackjack` - I aim to continue creating variants of this project in order to demonstrate different design patterns as and when required, and where appropriate in this context, but above all else this project is a great way to practice importing and developing in an IDE.
+  * `vanilla` variant demonstrates the implementation of the _Singleton_ design pattern
+  * `adapter` variant implements the Adapter design pattern in the.
+* `factory` - a very simple example of the Factory design pattern (also in Java).
+
+
+## Suggesting changes
 
 If you take a look at the rest of my work, either on my [personal site](https://ethankelly.github.io) or my other repos, you'll see I'm a mathematician (and philosopher) by training, so my programming background is a little light compared to your typical computing science PhD student! This means there are definitely better ways of writing code that I produce, so any suggestions, amendments or bug fixes are most welcome. To do this, you may want to consider ["forking"](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) this repo. To do that, you'll need your own (free) account on GitHub and from there, navigate to the repo [`ethankelly/teaching`](https://github.com/ethankelly/teaching) and hit the "Fork" button. This will create a parallel repo associated to your own GitHub, identical in everyway to the repo at the time you forked it. Then, you can implement any changes, amendments and so on in your own version associated with your account, with the benefit being that you can experiment to your heart's content without any impact on the original repo.
 
