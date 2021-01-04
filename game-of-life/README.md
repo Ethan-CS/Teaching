@@ -2,7 +2,7 @@
    
 ## Introduction
 
-   The _Game of Life,_ or simply _Life_ is a zero-player game devised by mathematician John Conway in 1970. It is played on an infinite, 2D grid composed of square cells. A cell can have a living inhabitant, which can be specified in the initialisation (seed) and then determined by the rules of the game which are as follows (I've summarised these in a table below, too):
+   The _Game of Life,_ or simply _Life,_ is a zero-player game devised by mathematician John Conway in 1970. It is played on an infinite, 2D grid composed of square cells. A cell can have a living inhabitant, which can be specified in the initialisation (seed) and then determined by the rules of the game which are as follows (I've summarised these in a table below, too):
 * A live cell with 0 or 1 neighbours dies (underpopulation)
 * A live cel with 2 or 3 neighbours remains as it is (survives)
 * A live cell with 4 or more neighbours dies (overpopulation)
@@ -12,13 +12,24 @@ These rules were settled on by Conway after very careful consideration of the ga
 1. No explosive growth
 2. Some initial patterns with chaotic, unpredictable outcomes
 3. Potential for von Neumann universal constructors (self-replicating 'machines')
-4. The rules should be as simple as possible, while still subject to the above three constraints.
+4. The rules should be as simple as possible, while subject to the above three constraints.
 
 ## Patterns
 
-When playing _Life,_ quickly one can see that there are many possibilities for "patterns" to emerge, shapes that have some common behaviour in progressive generations that we can categorise and study. In fact, in the first volume of _Lifeline,_ a "quarterly newsletter for enthusiasts of John Conway's Game of Life," we see a classification of objects:
+When playing _Life,_ quickly one can see that there are many possibilities for "patterns" to emerge, shapes that have some common behaviour in progressive generations that we can categorise and study. That is, given some initial state of live and dead cells in a certain area, under the rules we have some useful and examinable behaviour. In fact, in the first volume of _Lifeline,_ a "quarterly newsletter for enthusiasts of John Conway's Game of Life," we see a classification of objects:
 
 ![Classification of Life Objects](/game-of-life/classification.jpg)
+
+### Class I: Still Lives
+Still lives do not change from one generation to the next - they are stationary _ad infinitum._ While not very interesting in their own right, understanding still lives means their poperties can be utilised when constructing more complex objects. Perhaps the most famous example of a still life in _Life_ is the block:
+
+![Block](/game-of-life/img/block.jpg)
+
+### Class II: Oscillators
+The class of oscillators is a superclass of the still lives, which can be thought of as all the oscillators with period 1. This more general class are patterns that precede themselves - they repeat themselves after some number of generations, called the period. We often talk about a rotor and stator of an oscillator, which are the oscillating cells and the static cells which remain alive throughout respectively. The example given in the above classification is the blinker:
+
+![Blinker](/game-of-life/img/blinker.gif)
+
 
 ## Summary of Rules
 
