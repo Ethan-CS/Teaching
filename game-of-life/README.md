@@ -30,6 +30,11 @@ The class of oscillators is a superclass of the still lives, which can be though
 
 ![Blinker](/game-of-life/img/blinker.gif)
 
+### Class III: Spaceships
+Spaceships (or gliders) are finite patterns that move across the grid, returning periodically to their original shape but in a new location each time. The most common type of spaceship is called _the_ glider (because we talk about it so much) and is the smallest spaceship:
+
+![Glider](/game-of-life/img/glider.gif)
+
 
 ## Summary of Rules
 
