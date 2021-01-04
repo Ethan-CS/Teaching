@@ -18,7 +18,7 @@ These rules were settled on by Conway after very careful consideration of the ga
 
 When playing _Life,_ quickly one can see that there are many possibilities for "patterns" to emerge, shapes that have some common behaviour in progressive generations that we can categorise and study. In fact, in the first volume of _Lifeline,_ a "quarterly newsletter for enthusiasts of John Conway's Game of Life," we see a classification of objects:
 
-![Classification of Life Objects](game-of-life/classification)
+![Classification of Life Objects](game-of-life/classification.jpg)
 
 ## Summary of Rules
 
