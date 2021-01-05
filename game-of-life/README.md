@@ -14,6 +14,8 @@ These rules were settled on by Conway after very careful consideration of the ga
 3. Potential for von Neumann universal constructors (self-replicating 'machines')
 4. The rules should be as simple as possible, while subject to the above three constraints.
 
+In this directory, you'll find some resources related to _Life,_ with some simple coded versions. I hope that these prove useful examples of coding in different languages, and you may get pointed here for any number of reasons so - as always - feel free to suggest any amendments, improvements or bug fixes using a pull request or get in touch!
+
 ## Patterns
 
 When playing _Life,_ quickly one can see that there are many possibilities for "patterns" to emerge, shapes that have some common behaviour in progressive generations that we can categorise and study. That is, given some initial state of live and dead cells in a certain area, under the rules we have some useful and examinable behaviour. In fact, in the first volume of _Lifeline,_ a "quarterly newsletter for enthusiasts of John Conway's Game of Life," we see a classification of objects:
