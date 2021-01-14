@@ -7,11 +7,13 @@ This repo contains a collection of resources I've created to help with various c
 ## Contents
 
 There's more information in each of the directories about what each of the projects aims to teach, explain or demonstrate but below is a broad overview.
-
+* `ProgIT-resources` - Contains any materials I've made available for the Programming course (in the MSc in IT degree, University of Glasgow) - may be fairly sparse at the start of term, to avoid spoiling what's coming up!
 * `Blackjack` - I aim to continue creating variants of this project in order to demonstrate different design patterns as and when required, and where appropriate in this context, but above all else this project is a great way to practice importing and developing in an IDE.
   * `vanilla` variant demonstrates the implementation of the _Singleton_ design pattern
   * `adapter` variant implements the Adapter design pattern in the.
 * `factory` - a very simple example of the Factory design pattern (also in Java).
+* `game-of-life`- John Conway's _Game of Life_ in some different implementations and with various supporting material to explain some (hopefully) interesting bits about the game.
+* `rock-paper-scissors` - A really great implementation of Rock, Paper, Scissors from [Derek Somerville](https://github.com/DerekSomerville) for his course, _Foundations of Professional Software Engineering,_ that I point students towards very often. I have this copy on my own GitHub so that I can play around and then suggest any changes back to Derek.
 
 
 ## Suggesting changes
