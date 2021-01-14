@@ -13,7 +13,7 @@ There's more information in each of the directories about what each of the proje
   * `adapter` variant implements the Adapter design pattern in the.
 * `factory` - a very simple example of the Factory design pattern (also in Java).
 * `game-of-life`- John Conway's _Game of Life_ in some different implementations and with various supporting material to explain some (hopefully) interesting bits about the game.
-* `rock-paper-scissors` - A really great implementation of Rock, Paper, Scissors from [Derek Somerville](https://github.com/DerekSomerville) for his course, _Foundations of Professional Software Engineering,_ that I point students towards very often. I have this copy on my own GitHub so that I can play around and then suggest any changes back to Derek.
+* `rock-paper-scissors` - A really great implementation of Rock, Paper, Scissors by [Derek Somerville](https://github.com/DerekSomerville) for his course, _Foundations of Professional Software Engineering,_ that I point students towards very often. I have this copy on my own GitHub so that I can play around and then suggest any changes back to Derek.
 
 
 ## Suggesting changes
