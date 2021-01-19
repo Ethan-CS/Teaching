@@ -34,6 +34,7 @@ The aim of these tasks is to produce an object that will represent a bank accoun
 6. Test the methods from 5 in your main method.
 
 You will now see how to use your `Person` and `BankAccount` objects together
+
 7. In your `main` method, create a `Person` (using the `Person` class you made in the previous section).
 8. Modify your `BankAccount` object so that instead of storing a customer name, it stores a `Person object` instead (pass the object reference to the constructor). Some hints: you’ll need to change...
   a. The type of the class attribute (variable) in `BankAccount` (the one that was the account holder's name)
@@ -42,4 +43,5 @@ You will now see how to use your `Person` and `BankAccount` objects together
 9. Demonstrate the use of `Person` in `BankAccount` by creating two bank accounts for the same person.
 
 In the following, you will see how `BankAccount` objects can manipulate other `BankAccount` objects.
+
 10. Create a new method called `transferFunds` in the `BankAccount` class. This method should take two arguments: a `double` amount to transfer from the account, and another `BankAccount` object into which the funds should be transferred. Fill in the method with the necessary operations to withdraw the funds from one account, and deposit them in another.
