@@ -1,10 +1,11 @@
 # CP1PX Resources
 
-This is where I will upload the solutions to weekly exercises after labs, so that students have a chance to try the exercises and then check out the solutions here. If you're at the start of the course, there may be very little here! I'll try and include links to the lecturer's repo, [Jess Enright](https://github.com/magicicada/cs1px_2021) for each cycle.
+This is where I will upload the solutions to weekly exercises after labs, so that students have a chance to try the exercises and then check out the solutions here. If you're at the start of the course, there may be very little here! I'll try and include links to the lecturer's repo, [Jess Enright](https://github.com/magicicada/cs1px_2021) for each cycle. You can find the original lab exercises in Jupyter notebooks in Jess' repo, and I'll upload notebooks with solutions here when labs are all finished for that weekly cycle.
+
 
 ## Cycle 1: Refresher
 
-Mostly refresher material that should help you get started in this course by revising some basic Python you should have learned already - if you haven't, it's probably because you aren't taking 1PX at the University of Glasgow. That's okay, some light Googling should bring up what you're looking for.
+Mostly refresher material that should help you get started in this course by revising some basic Python you should have learned already - if you haven't, it's probably because you aren't taking 1PX at the University of Glasgow. That's okay, some light Googling should bring you up to speed. If you need a hand, get in touch [here]{https://ethankelly.github.io/contact/)
 
 [Jess Enright's Cycle 1 repo](https://github.com/magicicada/cs1px_2021/tree/main/cycle_1_refresher)
 
