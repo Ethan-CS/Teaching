@@ -1,6 +1,6 @@
-# Programming IT, Exercise book 2a,
+# Programming IT, Exercise book 2,
 
-## Objects
+## Objects (part 1)
 
 _Dr. Simon Rogers and Prof. Alice Miller_
 
