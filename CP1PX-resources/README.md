@@ -5,7 +5,7 @@ This is where I will upload the solutions to weekly exercises after labs, so tha
 
 ## Cycle 1: Refresher
 
-Mostly refresher material that should help you get started in this course by revising some basic Python you should have learned already - if you haven't, it's probably because you aren't taking 1PX at the University of Glasgow. That's okay, some light Googling should bring you up to speed. If you need a hand, get in touch [here](https://ethankelly.github.io/contact/)
+Mostly refresher material that should help you get started in this course by revising some basic Python you should have learned already - if you haven't, it's probably because you aren't taking 1PX at the University of Glasgow. That's okay, some light Googling should bring you up to speed. If you need a hand, get in touch [here](https://ethankelly.github.io/contact/).
 
 [Jess Enright's Cycle 1 repo](https://github.com/magicicada/cs1px_2021/tree/main/cycle_1_refresher)
 
