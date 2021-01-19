@@ -7,6 +7,7 @@ This repo contains a collection of resources I've created to help with various c
 ## Contents
 
 There's more information in each of the directories about what each of the projects aims to teach, explain or demonstrate but below is a broad overview.
+* `CS1PX-resources` - Any Jupyter notebooks and other materials I've currently made available for the 1PX (Further Programming - Python) first-year course at the University of Glasgow. This may be empty or sparse, especially at the start of the semester!
 * `ProgIT-resources` - Contains any materials I've made available for the Programming course (in the MSc in IT degree, University of Glasgow) - may be fairly sparse at the start of term, to avoid spoiling what's coming up!
 * `Blackjack` - I aim to continue creating variants of this project in order to demonstrate different design patterns as and when required, and where appropriate in this context, but above all else this project is a great way to practice importing and developing in an IDE.
   * `vanilla` variant demonstrates the implementation of the _Singleton_ design pattern
