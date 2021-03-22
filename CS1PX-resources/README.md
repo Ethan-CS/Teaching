@@ -25,3 +25,39 @@ This is where we get to play with _higher order_ and _recursive_ functions. High
 This cycle gives you some different ways to deal with when your code goes wrong, through for instance dodgy user input or some rogue bug you may have missed. Having exceptions makes the task of debugging a lot faster! Here, you will also get to tackle some much larger pieces of code.
 
 [Jess Enright, Cycle 3](https://github.com/magicicada/cs1px_2021/tree/main/cycle_3_errors_and_exceptions)
+
+
+## Cycle 4: Functions for Data Structures and Plotting
+
+Here, we will look more into planning appropriate data structures and writing structures to deal with the data we have stored. We will also look briefly at a Python _library_ which can help us plot the data we store. 
+
+[Jess Enright, Cycle 4](https://github.com/magicicada/cs1px_2021/tree/main/cycle_4_data_structure_and_plotting)
+
+
+## Cycle 5: Computational Complexity
+
+This is a big change of pace, but a really useful one for further computing science study. Computational complexity is a formal way of describing how long it should take for code to run as a function of the size of the inputs.
+
+[Jess Enright, Cycle 5](https://github.com/magicicada/cs1px_2021/tree/main/cycle_5_complexity)
+
+
+## Cycle 6: Searching
+
+This cycle focuses on _searching algorithms,_ which are processes designed to check for a given element in a data structure. This cycle will focus on a simple search and a binary search.
+
+[Jess Enright, Cycle 6](https://github.com/magicicada/cs1px_2021/tree/main/cycle_6_searching)
+
+
+## Cycle 7: Sorting
+
+Sorting algorithms are processes which aim to place the elements of a given data structure into a particular order. 
+
+[Jess Enright, Cycle 7](https://github.com/magicicada/cs1px_2021/tree/main/cycle_7_sorting)
+
+
+## Cycle 8: Sorting and Custom Data Structures
+
+This cycle will round up and extend what you've learned in cycles 7 and 4. We will use sorting algorithms on custom data structures, which is a very useful skill to develop.
+
+[Jess Enright, Cycle 8](https://github.com/magicicada/cs1px_2021/tree/main/cycle_8_advanced_sorting)
+
