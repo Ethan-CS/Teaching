@@ -1,3 +1,0 @@
-# Programming (IT)
-
-In this directory, you can find all of the resources I make available to help with the Programming course for the MSc in IT at the University of Glasgow. There might not be much here, especially if the course has just started (to avoid giving anything away...) but check back again and there may be more materials here to help you in your journey into Java. if you aren't from the ProgIT course, you're still very welcome to look around the files here and use any or all of them to help you with your own understanding of Java. Download anything you find and are interested in, get it to work and adapt it in interesting ways - it really helps!
